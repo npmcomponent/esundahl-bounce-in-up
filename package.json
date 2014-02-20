@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-bounce-in-up",
+  "description": "bounce-in-up animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "bounce-in-up"
+  ],
+  "styles": [
+    "bounce-in-up.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
